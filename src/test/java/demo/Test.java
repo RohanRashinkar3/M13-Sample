@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("Test!");
 		System.out.println("In ATE branch");
 		System.out.println("Practice Git Conflict from ATE system");
+		System.out.println("Practice Git Conflict from FE system");
 	}
 }
